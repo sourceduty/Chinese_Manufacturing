@@ -36,7 +36,7 @@ In Southeast Asian countries like Thailand and Indonesia, the replication of pop
 
 ### Compatability 
 
-While China is increasing its participation in international standards organizations and seeking to play a more significant role in global standards, there remains a concern about the compatibility of Chinese standards with international norms. This could impact the ability of Chinese products to enter global markets and also create barriers for international products entering the Chinese market​
+While China is increasing its participation in international standards organizations and seeking to play a more significant role in global standards, there remains a concern about the compatibility of Chinese standards with international norms. This could impact the ability of Chinese products to enter global markets and also create barriers for international products entering the Chinese market​.
 
 Some industry experts express concerns about the development of association standards and their potential to become national standards. There are fears that this could lead to issues with intellectual property rights and innovation, especially if the process for setting association standards is not fully independent or transparent​.
 
