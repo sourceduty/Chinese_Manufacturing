@@ -65,6 +65,8 @@ Implementing these strategies effectively can lead to significant improvements i
 [Manufacturing Source](https://github.com/sourceduty/Manufacturing_Source)
 <br>
 [Business Model Simulator](https://github.com/sourceduty/Business_Model_Simulator)
+<br>
+[Manufacturing](https://github.com/sourceduty/Manufacturing)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
